@@ -1,5 +1,7 @@
-### ""Without data you're just another person with an opinion." William Edwards Deming"
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayconbatestin//)](https://www.linkedin.com/in/karinnecristinapereira/)
+### <b>"Without data you're just another person with an opinion."</b> 
+##### <i> William Edwards Deming </i>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayconbatestin/)](https://www.linkedin.com/in/mayconbatestin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mayconcipriano@gmail.com)](mayconcipriano@gmail.com)
 
 
