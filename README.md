@@ -55,3 +55,8 @@ I am endowed with creativity (at least, so they say!), Companionship and a lot o
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batestin1&layout=compact&langs_count=8&theme=dark"/>
 </a>
 
+
+
+>> <h3> Useful links </h3>
+
+> ![delta](linkedin.jpg)
