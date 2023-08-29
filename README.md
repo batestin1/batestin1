@@ -43,19 +43,6 @@ I am endowed with creativity (at least, so they say!), Companionship and a lot o
  ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  
  
- <br>
-
-<b> :chart_with_upwards_trend: Statistics</b>:
-
-<a href="https://github.com/batestin1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=batestin1&show_icons=true&theme=dark&include_commits=true"/>
-</a>
-
-<a href="https://github.com/batestin1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batestin1&layout=compact&langs_count=8&theme=dark"/>
-</a>
-
-
 
 >> <h3> Useful links </h3>
 
