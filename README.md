@@ -42,8 +42,3 @@ I am endowed with creativity (at least, so they say!), Companionship and a lot o
  ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
  ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
  
- 
-
->> <h3> Useful links </h3>
-
-> ![delta](linkedin.jpg)
